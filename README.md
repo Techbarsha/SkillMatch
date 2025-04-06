@@ -165,8 +165,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋 Contact
 
-Feel free to reach out for feedback, collaboration, or hiring us 😄  
-- 📧 skillmatch.team@gmail.com  
+📧 Feel free to reach out for feedback, collaboration, or hiring us 😄  
 - 🌐 [Live App](https://skillmatch-tbeyh4okgjeeuq8uc5zced.streamlit.app)  
 - 🎥 [Demo Video](https://youtu.be/g3hcY44_xL8)
 
