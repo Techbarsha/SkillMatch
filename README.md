@@ -2,7 +2,6 @@
 
 SkillMatch is an intelligent recruitment platform built with multi-agent architecture that automates the entire hiring workflow—from job description analysis to resume matching, shortlisting, and interview scheduling. Designed during **Hack the Future: A Gen AI Sprint**, it leverages NLP, machine learning, and LLM APIs to reduce human bias and streamline the recruitment process.
 
-A powerful AI-driven application that helps recruiters and HR professionals find the best candidates by automatically screening and ranking resumes/CVs based on job requirements.
 ![Project Screenshot](https://github.com/rohan250903/SkillMatch/blob/main/job_descriptions/SKILLMATCH)
 
 ---
