@@ -614,4 +614,4 @@ if st.session_state.current_step >= 3:
 st.sidebar.markdown("**🌟 Key Features**")
 st.sidebar.markdown("- AI-Powered Matching\n- Interactive Visualizations\n- Automated Scheduling\n- PDF/CSV Reports")
 st.sidebar.markdown("⚓**About SkillMatch**\n\nSkillMatch automates the recruitment process from job analysis to interview scheduling.")
-st.sidebar.markdown("**SkillMatch**👨‍💻 Created by Tech_Burner© 2025 All rights reserved")
+st.sidebar.markdown("**SkillMatch**👨‍💻 Created by Tech_Burner ©2025 All rights reserved")
