@@ -73,7 +73,8 @@ skillmatch/
 ├── resumes.zip             # Compressed file containing resumes
 
 ```
-
+## 🤵‍♂️Meet Our Team:
+![team](https://github.com/Techbarsha/SkillMatch/blob/main/job_descriptions/Screenshot%202025-04-27%20105828.png)
 ---
 
 ## 🧑‍💻 Installation Guide
