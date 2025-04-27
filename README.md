@@ -57,6 +57,7 @@ SkillMatch automates recruitment using coordinated AI agents:
 - SQLite (Data storage)
 
 ---
+![demo](https://github.com/Techbarsha/SkillMatch/blob/main/job_descriptions/Screenshot%202025-04-27%20105847.png)
 
 ## 📁 Project Structure
 
